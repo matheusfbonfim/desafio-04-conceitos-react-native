@@ -15,15 +15,11 @@
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
-
-  <a href="https://github.com/matheusfbonfim/desafio-04-conceitos-react-native/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/matheusfbonfim/desafio-04-conceitos-react-native/?style=social">
-  </a>
+  
 </p>
 
 <p align="center">
   <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#calendar-entrega">Entrega</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -62,3 +58,20 @@ Caso você tenha dúvidas quanto ao que são os testes, e como interpretá-los, 
 Para esse desafio temos os seguintes testes:
 
 - **`should add a like to the like counter of the repository`**: Para que esse teste passe, sua aplicação deve permitir ao clicar no botão `Curtir`, um like seja adicionado ao repositório listado, e que essa atualização possa ser visualizada na tela.
+
+## :memo: Licença
+
+O projeto está sobre a licença [MIT](./LICENSE) ❤️ 
+
+Gostou? Deixe uma estrelinha para ajudar o projeto ⭐
+
+<!-- Mensagem final -->
+<h3 align="center">
+Feito com ❤️ por <a href="https://www.linkedin.com/in/matheusfbonfim/">Matheus Bonfim</a>
+<br><br>
+<a href="https://rocketseat.com.br">
+  <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1">
+</a>
+</h3>
+</h3>
+
