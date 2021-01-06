@@ -24,7 +24,7 @@ export default function App() {
     })
   },[])
   
-  async function handleLikeRepository(id) {
+  async function handleLikeRepository(id){
     // Retorna todos os dados do repositorio
     // Essa rota ja adiciona o like automaticamente
     const response = await api.post(`repositories/${id}/like`);
